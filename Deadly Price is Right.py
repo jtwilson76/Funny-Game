@@ -3,6 +3,8 @@ import os
 
 #The Price is Right
 
+print("How much do you love Windows?") 
+
 number = random.randint(1,10)
 guess = input("Guess a number between 1 and 10!")
 guess = int(guess)
